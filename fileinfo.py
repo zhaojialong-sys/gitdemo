@@ -49,3 +49,8 @@ else:
     print('Sorry ' + name + ' ,but you lose!')
 
 print("Hello world")
+print("Hello world")
+print("Hello world")
+print("Hello world")
+print("Hello world")
+print("Hello world")
